@@ -1,0 +1,3 @@
+-r requirements-data.txt
+lightgbm>=4,<5
+scikit-learn>=1.4,<2

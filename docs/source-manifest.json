@@ -1,0 +1,68 @@
+[
+  {
+    "source_file": "build_tick_dual_probe_table.py",
+    "published_file": "research/build_tick_dual_probe_table.py",
+    "original_sha256": "884ee60f956267f35d11a04970fe54f84a30815e135de1553385089d58d6e964",
+    "publication_changes": [],
+    "published_sha256": "884ee60f956267f35d11a04970fe54f84a30815e135de1553385089d58d6e964"
+  },
+  {
+    "source_file": "build_tick_winner_tables.py",
+    "published_file": "research/build_tick_winner_tables.py",
+    "original_sha256": "24683eedddf6c7359a8453ed1c3d957fe7bc60326caffd4d4ab1aa2c725f3905",
+    "publication_changes": [],
+    "published_sha256": "24683eedddf6c7359a8453ed1c3d957fe7bc60326caffd4d4ab1aa2c725f3905"
+  },
+  {
+    "source_file": "atlas_bot_walkforward.py",
+    "published_file": "research/atlas_bot_walkforward.py",
+    "original_sha256": "b753feb6737102a6b42f75020dd6231e9d4fc6866fa7c5e1457ce244d46babde",
+    "publication_changes": [],
+    "published_sha256": "b753feb6737102a6b42f75020dd6231e9d4fc6866fa7c5e1457ce244d46babde"
+  },
+  {
+    "source_file": "atlas_sequence_story_walkforward.py",
+    "published_file": "research/atlas_sequence_story_walkforward.py",
+    "original_sha256": "c5f5a4639b1a5e6384fdf81dbfc7a3dbcc01e2ec2fcd3fb14340d5dc1af27eab",
+    "publication_changes": [
+      "Clarified introductory/report wording; original result field names retained."
+    ],
+    "published_sha256": "51c1deb1a0b92d4b0080866484f797ff345d365ef9e50992a7ba418910e2a483"
+  },
+  {
+    "source_file": "atlas_probability_equation_v3_walkforward.py",
+    "published_file": "research/atlas_probability_equation_v3_walkforward.py",
+    "original_sha256": "ab3c8321c8b06dab7b158e39bbc5322a2353aa462083bfac2f8d3ac5da41e555",
+    "publication_changes": [
+      "Qualified column-exclusion claims and removed conversational report wording."
+    ],
+    "published_sha256": "13e0c7110f3445cc0ef1a516980ab7580f09ee2a3ffb1e72f315ae367418ba80"
+  },
+  {
+    "source_file": "atlas_probability_equation_v3_full_pairs_walkforward.py",
+    "published_file": "research/atlas_probability_equation_v3_full_pairs_walkforward.py",
+    "original_sha256": "c33742933a9d24cebb2c43d6d164097c47869d427e665c2893521c7ee827f30c",
+    "publication_changes": [
+      "Clarified the introductory description; scoring algorithms unchanged."
+    ],
+    "published_sha256": "86be7c94b14c5f43501897dcc7ca0934c769171f70cc379cf9135b34f96b74e1"
+  },
+  {
+    "source_file": "tick_vr_ingest.py",
+    "published_file": "research/tick_vr_ingest.py",
+    "original_sha256": "5adb8cdd5151c0588b4d5e90f2b823fdd750af28426a102ccdc511016ecdd12e",
+    "publication_changes": [
+      "Removed automatic discovery of a local trading-terminal folder; qa/ingest/all require --source-dir."
+    ],
+    "published_sha256": "3b53b087b3c8d36231b2cc66c08b8bfe3db1f8e7a12cf48b4edefec456643567"
+  },
+  {
+    "source_file": "atlas_lightgbm_walkforward_clean.py",
+    "published_file": "research/atlas_lightgbm_walkforward_clean.py",
+    "original_sha256": "b1c166a95c09e95acbdd0ac8826183341ae165e2d138da172f5f127291d24824",
+    "publication_changes": [
+      "Replaced overbroad introductory/report claims with explicit evaluation limitations; algorithms unchanged."
+    ],
+    "published_sha256": "d34cfeaee2535cfdf862c260511417e4cf769da3b7f4c189f3df29856be81ef0"
+  }
+]
